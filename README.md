@@ -19,8 +19,6 @@
 
 - Email - albsugy@gmail.com
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=albsugy)](https://github.com/LordDashMe/github-contribution-stats/)
-
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albsugy&hide=TeX&layout=compact&theme=tokyonight)
  
