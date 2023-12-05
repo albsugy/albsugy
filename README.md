@@ -25,6 +25,6 @@
 ### ⭐ Skills
 Technologies I am familiar with/use on a daily basis.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,js,electron,figma,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,electron,tauri,nodejs,jest,git,tailwindcss,webpack,html,css,figma)](https://skillicons.dev)
  
  [![Github](https://img.shields.io/github/followers/albsugy?label=Follow&style=social)](https://github.com/albsugy)
