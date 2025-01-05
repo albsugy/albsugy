@@ -3,9 +3,6 @@
 <h4>Software Engineer passionate about Experience Design, Application Architecture and Performance. Finding different ways to solve different problems.</h4>
  
 <p>
-  <a href="https://twitter.com/albsugy" target="blank">
-    <img align="center" src="https://i.imgur.com/hz1w2yY.png" alt="albsugy" height="22" width="22" />
-  </a>
   <span></span>
 	&nbsp;
   <img align="center" src="https://komarev.com/ghpvc/?username=albsugy&label=Profile%20views&color=0e75b6&style=flat" alt="albsugy" />
@@ -13,11 +10,9 @@
 </p>
 
 ### 📫 Contact Me
-- Twitter - [@albsugy](https://twitter.com/albsugy)
-
 - LinkedIn - [Medhat Albsugy](https://www.linkedin.com/in/albsugy)
 
-- Email - albsugy@gmail.com
+- X - [@albsugy](https://x.com/albsugy)
 
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albsugy&hide=TeX&layout=compact&theme=tokyonight)
